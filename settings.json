@@ -314,7 +314,7 @@
         {
             "background": "#2C001E",
             "black": "#4E9A06",
-            "blue": "#3465A4",
+            "blue": "#969696",
             "brightBlack": "#555753",
             "brightBlue": "#729FCF",
             "brightCyan": "#34E2E2",
@@ -326,7 +326,7 @@
             "cursorColor": "#FFFFFF",
             "cyan": "#06989A",
             "foreground": "#EEEEEE",
-            "green": "#300A24",
+            "green": "#721946",
             "name": "UbuntuLegit",
             "purple": "#75507B",
             "red": "#CC0000",
